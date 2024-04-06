@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
-[!Note]
-> Read this in other languages: [Russian](), [English](README.en.md)
+> [!Note]
+> Read this in other languages: [Russian](README.md), [English](README.en.md)
 
 I'm a junior artificial intelligence engineer. Сurrently working at [HeadLiner](http://headlineragency.ru/)
 
