@@ -1,7 +1,7 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
 ---
 > [!Note]
-> Read this in other languages: [Russian](README.md), [English](README.en.md)
+> Читайте на дргуих языках: [Русский](README.md), [English](README.en.md)
 
 I'm a junior artificial intelligence engineer. Сurrently working at [HeadLiner](http://headlineragency.ru/)
 
