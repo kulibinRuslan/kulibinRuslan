@@ -28,13 +28,13 @@ You can contact me at the following addresses:
    - Classification system for the quality of housing repairs
    - Meter detection and reading system
    - Program for recognizing and dimensioning wooden slabs
-   - A system for detecting objects in space - analogous to a Google Lens (in development)
+   - A system for detecting objects in space - analogous to a Google Lens
   
 3. Text generation:
-   - A chatbot for analyzing car market sales (in development)
+   - A chatbot for analyzing car market sales
   
 4. Speech recognition:
-   - Set of microservices for analyzing telephone conversations (in development)
+   - Set of microservices for analyzing telephone conversations
 
 
 
