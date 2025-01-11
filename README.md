@@ -3,7 +3,7 @@
 > [!Note]
 > Read this in other languages: [Русский](README.md), [English](README.en.md)
 
-Я младший инженер по искусственному интеллекту. В настоящее время работаю в компании [HeadLiner](http://headlineragency.ru/)
+Я младший инженер по искусственному интеллекту.
 
 Вы можете связаться со мной по этим адресам:
 - kulibin.rusik@yandex.ru
