@@ -3,7 +3,7 @@
 > [!Note]
 > Читайте на дргуих языках: [Русский](README.md), [English](README.en.md)
 
-I'm a junior artificial intelligence engineer. Сurrently working at [HeadLiner](http://headlineragency.ru/)
+I'm a junior artificial intelligence engineer.
 
 You can contact me at the following addresses:
 - kulibin.rusik@yandex.ru
